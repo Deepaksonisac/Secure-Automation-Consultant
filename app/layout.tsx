@@ -19,7 +19,7 @@ const spaceGrotesk = Space_Grotesk({
 })
 
 export const metadata: Metadata = {
-  title: 'Secure Automation Consultants (SAC) | Building Security, Management & Automation',
+  title: 'Secure Automation Consultants | Building Security, Management & Automation',
   description:
     'Jaipur-based systems integrator delivering CCTV/IP surveillance, access control, fire detection, BMS, IT networking, and public address solutions to India\u2019s most demanding facilities since 2010.',
   generator: 'v0.app',
